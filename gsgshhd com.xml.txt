@@ -1,0 +1,15 @@
+<HTML>
+<head>
+<title>Hacked By Mr.Cyber's</title>
+
+<meta name="description" content="You Got Hacked by Mr.Cyber's ? Where the security !" />
+</head>
+
+<body BGCOLOR="black"> 
+
+<center><FONT COLOR="blue"><FONT SIZE=6>Hacked By Mr.Cyber's</FONT></FONT></center>
+
+<center><img src="http://www.mrconservative.com/files/2014/01/2014.01.03-mrconservative-52c7336a7aa18.jpg" width="860" height="264""><center>
+</body>
+</HTML> 
+
